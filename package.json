@@ -1,0 +1,22 @@
+{
+  "name": "randompass",
+  "version": "1.0.0",
+  "description": "random password creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystikkogames/randompass.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "mystikkogames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mystikkogames/randompass/issues"
+  },
+  "homepage": "https://github.com/mystikkogames/randompass#readme"
+}
